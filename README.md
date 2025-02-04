@@ -1,1 +1,3 @@
-# react-native
+## React Native
+
+React Native project for learning purposes
